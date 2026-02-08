@@ -1,0 +1,4 @@
+# Keep as minimal overrides first.
+# Add changes only if needed for your environment.
+
+namespaceOverride: retail-app
