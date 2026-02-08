@@ -25,3 +25,17 @@ grading.json.raw
 # OS / editor
 .DS_Store
 .vscode/
+
+# Terraform artifacts
+**/.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Archives
+*.zip
+
+# grading / secrets
+grading.json
+grading.json.raw
